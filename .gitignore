@@ -1,0 +1,7 @@
+/target/
+/dist/
+/tools/
+*.tmp
+/sonarqube-*/
+/sonarqube-*.zip
+/uxmm-org-profile/
